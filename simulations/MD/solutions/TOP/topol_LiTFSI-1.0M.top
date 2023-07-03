@@ -1,0 +1,16 @@
+;Written on Wed 15 Jun 2022 02:15:27 PM CEST.
+;Forcefield created by fftool and assembled in this file by Marcelo Albuquerque.
+;
+
+#include "ITP/ff.itp"
+#include "ITP/Li.itp"
+#include "ITP/fsi.itp"
+#include "ITP/tep.itp"
+
+[ system ]
+LiFSI_TEP
+
+[ molecules ]
+Li      78
+FSI     78
+TEP     468
