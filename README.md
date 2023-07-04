@@ -9,7 +9,7 @@ In this work, highly concentrated electrolytes (HCE) of 3.0 M lithium bis(fluoro
 <img
   src="./graphical_abst.png"
   alt="Alt text"
-  title="Optional title"
+  title="Graphical abstract"
   style="display: inline-block; margin: 1.5 auto; max-width: 300px">
 
 
